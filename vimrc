@@ -13,6 +13,9 @@ set cindent
 " Eclaire les (, [, {, < correspondants à la fermeture
 set showmatch
 
+"Affiche les ligne et colonne courantes
+set ruler
+
 " tabstop (combien de colonnes), shiftwidth (cb col en réindentation), softtabstop (cb col pour backspace)
 set ts=4
 set sw=4
